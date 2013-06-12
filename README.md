@@ -1,5 +1,4 @@
-Asynchronous http requests using the continuation monad
-=======================================================
+## Asynchronous http requests using the continuation monad
 
 An asynchronous ajax request function would look like this:
 
